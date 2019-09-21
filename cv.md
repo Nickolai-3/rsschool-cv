@@ -3,7 +3,7 @@
 ## Yatskevich Nikolai
 
 >### __phone:__ +375293234281.
->### **E-mail:** [stran7nik7@gmail.com](stran7nik7@gmail.com)
+>### **E-mail:** [stran7nik7@gmail.com](https://stran7nik7@gmail.com)
 >### [**https://github.com/Nickolai-3**](https://github.com/Nickolai-3)
  * I have a high education.
  * I want to learn how to program using the *javascript* language.
